@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on humi.dev</title>
-    <link>https://humann-a6a46.firebaseapp.com/tags/</link>
-    <description>Recent content in Tags on humi.dev</description>
+    <title>Tags on statusquo</title>
+    <link>https://statusquo.github.io/tags/</link>
+    <description>Recent content in Tags on statusquo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://humann-a6a46.firebaseapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://statusquo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

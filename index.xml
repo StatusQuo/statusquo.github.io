@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>humi.dev</title>
-    <link>https://humann-a6a46.firebaseapp.com/</link>
-    <description>Recent content on humi.dev</description>
+    <title>statusquo</title>
+    <link>https://statusquo.github.io/</link>
+    <description>Recent content on statusquo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2023 20:45:19 +0100</lastBuildDate><atom:link href="https://humann-a6a46.firebaseapp.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 20:45:19 +0100</lastBuildDate><atom:link href="https://statusquo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://humann-a6a46.firebaseapp.com/about/</link>
+      <link>https://statusquo.github.io/about/</link>
       <pubDate>Tue, 21 Feb 2023 20:45:19 +0100</pubDate>
       
-      <guid>https://humann-a6a46.firebaseapp.com/about/</guid>
+      <guid>https://statusquo.github.io/about/</guid>
       <description>Impressum Sebastian Humann-Nehrke
 Eupenstr. 72, 45259 Essen
 info[at]humi.dev</description>
@@ -20,10 +20,10 @@ info[at]humi.dev</description>
     
     <item>
       <title>myCycles Privacy Policy</title>
-      <link>https://humann-a6a46.firebaseapp.com/posts/mycycles-privacy/</link>
+      <link>https://statusquo.github.io/posts/mycycles-privacy/</link>
       <pubDate>Tue, 21 Feb 2023 20:45:19 +0100</pubDate>
       
-      <guid>https://humann-a6a46.firebaseapp.com/posts/mycycles-privacy/</guid>
+      <guid>https://statusquo.github.io/posts/mycycles-privacy/</guid>
       <description>This policy describes the information that I, Sebastian Humann-Nehrke, may receive from myCycles users and how that information is handled.
 No data is sended to any server at any time.
 I dont use cookies for advertising or tracking.</description>
